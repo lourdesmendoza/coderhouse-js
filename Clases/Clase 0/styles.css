@@ -1,0 +1,10 @@
+h1 {
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blueviolet;
+    padding-left: 10px; 
+}
+
+div h2 {
+    color: orange;
+}
